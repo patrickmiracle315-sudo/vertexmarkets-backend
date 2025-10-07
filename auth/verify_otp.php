@@ -1,0 +1,1 @@
+<?php echo 'Verify OTP placeholder'; ?>

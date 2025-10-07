@@ -1,0 +1,1 @@
+<?php echo 'Reset password placeholder'; ?>

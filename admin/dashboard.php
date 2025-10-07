@@ -1,0 +1,1 @@
+<?php session_start(); if(empty($_SESSION['admin'])){ header('Location: login.php'); exit; } ?><!doctype html><html><body><h1>Admin Dashboard</h1></body></html>

@@ -1,0 +1,1 @@
+<?php function safe_post($k){return isset($_POST[$k])?trim($_POST[$k]):'';} ?>
