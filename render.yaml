@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: vertexmarkets-backend
+    env: php
+    buildCommand: ""
+    startCommand: ""
+    envVars:
+      - key: DB_HOST
+        value: sql111.infinityfree.com
+      - key: DB_NAME
+        value: if0_40107622_vertex_db
+      - key: DB_USER
+        value: if0_40107622
+      - key: DB_PASS
+        value: 2005rm123456
